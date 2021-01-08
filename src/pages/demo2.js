@@ -7,7 +7,7 @@ export default class demo2 extends Component {
     render() {
         return (
             <div>
-                this is demo2
+                this is demo2,hello 这是个初始化的create-react-app
             </div>
         )
     }
