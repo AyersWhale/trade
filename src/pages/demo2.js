@@ -8,6 +8,7 @@ export default class demo2 extends Component {
         return (
             <div>
                 this is demo2,hello 这是个初始化的create-react-app
+                测试tag
             </div>
         )
     }
