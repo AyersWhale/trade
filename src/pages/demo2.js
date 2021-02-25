@@ -10,6 +10,7 @@ export default class demo2 extends Component {
                 this is demo2,hello 这是个初始化的create-react-app
                 2021/02/26 日更新
                 测试批量 merge  --1
+                测试批量 merge  --2
             </div>
         )
     }
